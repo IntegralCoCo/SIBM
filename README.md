@@ -1,1 +1,1 @@
-# Code of SIB-Model
+# Code of SIBM
